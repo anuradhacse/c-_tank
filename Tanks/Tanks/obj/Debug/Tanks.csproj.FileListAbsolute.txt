@@ -1,0 +1,6 @@
+E:\4th semester\Programming Challenge2\c#_tank\Tanks\Tanks\bin\Debug\Tanks.exe.config
+E:\4th semester\Programming Challenge2\c#_tank\Tanks\Tanks\bin\Debug\Tanks.exe
+E:\4th semester\Programming Challenge2\c#_tank\Tanks\Tanks\bin\Debug\Tanks.pdb
+E:\4th semester\Programming Challenge2\c#_tank\Tanks\Tanks\obj\Debug\Tanks.csprojResolveAssemblyReference.cache
+E:\4th semester\Programming Challenge2\c#_tank\Tanks\Tanks\obj\Debug\Tanks.exe
+E:\4th semester\Programming Challenge2\c#_tank\Tanks\Tanks\obj\Debug\Tanks.pdb
